@@ -12,4 +12,4 @@ The measurement of risk consists in measuring the probability of default of a bo
 <br/> Scoring: describe EDA, datamanagement and models 
 
 <br/>4. **Report**
-<br/>  PDF file with the report of the project 
+<br/>  Scoring: PDF file with the report of the project 
